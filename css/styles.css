@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.jumbotronBg{
+	background-color:gainsboro;
+	color: black;
+}
+.jumbotronBgAbout{
+	background-color:skyblue;
+	color: white;
+}
+
+.paddingBottom{
+	padding-bottom: 30px;
+}
+
+.carousel-inner img{
+	width: 100%;
+	height:auto;
+}
+.carousel-inner video{
+	width: 100%;
+	height:auto;
+}
+
+.carousel-caption h3{
+	color:lawngreen;
+}
+.carousel-indicators li{
+	background-color:rgba(116,255,6,0.2);
+}
+.carousel-indicators .active{
+	background-color:aqua;
+}
+
+
+button.btn.btn-outline-light
+{
+	color: #000000;
+	
+}
+.custom-file
+{
+	margin-bottom: 20px!important;
+}
+.submit
+{
+	margin: 0 0 20px 0;
+}
+
+.footer {
+    bottom: 0px;
+    margin: 0 auto !important;
+    text-align: center !important;
+    width: 100% !important;
+    height: auto;
+	background-color: palegoldenrod;
+}
